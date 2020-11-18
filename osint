@@ -24,6 +24,7 @@ https://securitytrails.com/
 
 Phoneinfoga
 docker run sundowndev/phoneinfoga:latest scan -n "555-555-5555"
+https://sundowndev.github.io/PhoneInfoga/usage/
 
 Instalooter
 instalooter user instausernamehere
