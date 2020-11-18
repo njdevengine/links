@@ -21,3 +21,12 @@ https://tranco-list.eu/#download
 
 Whois Domains & Subdomains
 https://securitytrails.com/
+
+Phoneinfoga
+docker run sundowndev/phoneinfoga:latest scan -n "555-555-5555"
+
+Instalooter
+instalooter user instausernamehere
+
+Sherlock
+python3 sherlock/sherlock.py usernamehere
